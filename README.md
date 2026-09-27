@@ -4,9 +4,8 @@ Remember the Ranked Climb? Your Mental Drive Gauge getting overwhelmed?
 Hopefully you're still climbing — Natural extension for your hypr system,
 aren't fighting games how we all got here anyway? What if your desktop matched
 Capcom’s *Street Fighter 6* **Drive-gauge magenta → hadoken cyan** on a Metro
-City asphalt void instead of another flat dark mode? Same dual-accent border
-trick as Asphalt, HEV, Galuga, CS, Cyber Shadow, Doom 2016, Eternal, Caged,
-KI, Rising & Stanley — different arena.
+City asphalt void instead of another flat dark mode? Same dual-accent border trick as Asphalt, HEV, Galuga, CS, Cyber Shadow, Doom 2016, Eternal, Caged, KI, Rising, Stanley, T2D & USFIV —
+different arena.
 
 Fighting-game theme for [Omarchy](https://omarchy.org/). Inspired by the look of
 *Street Fighter 6* — **not affiliated with Capcom** (see [Credits](#credits--legal-ish)
