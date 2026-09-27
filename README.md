@@ -27,8 +27,10 @@ as
 [Half-Life Caged](https://github.com/AlxWolfenstein97/omarchy-half-life-caged-theme),
 [Killer Instinct](https://github.com/AlxWolfenstein97/omarchy-killer-instinct-theme),
 [Metal Gear Rising](https://github.com/AlxWolfenstein97/omarchy-metal-gear-rising-theme),
+[Stanley Parable](https://github.com/AlxWolfenstein97/omarchy-stanley-parable-theme),
+[Terminator 2D: NO FATE](https://github.com/AlxWolfenstein97/omarchy-terminator-2d-no-fate-theme),
 and
-[Stanley Parable](https://github.com/AlxWolfenstein97/omarchy-stanley-parable-theme).
+[Ultra Street Fighter IV](https://github.com/AlxWolfenstein97/omarchy-ultra-street-fighter-iv-theme).
 
 <p align="center">
   <img src="logo.png" alt="Street Fighter 6 wordmark used for unlock / README" width="420" />
@@ -153,8 +155,10 @@ omarchy plugin add https://github.com/AlxWolfenstein97/omatty.git --enable --yes
 ```
 
 **Boom-out — one paste.** Teardown + ledger pkg drop + plugin remove.
-`--purge-tombstones` also clears Style quiet-install stamps (same-session re-arm
-needs a loud install otherwise — why lives on the plugin READMEs).
+Ledger drops only what we recorded pulling; may fail and stay if something else
+still needs the package (e.g. Goverlay after Pillow) — fine. `--purge-tombstones`
+also clears Style quiet-install stamps (same-session re-arm needs a loud install
+otherwise — why lives on the plugin READMEs).
 
 ```bash
 ~/.config/omarchy/plugins/io.github.alxwolfenstein97.chroma/tools/wipe-all-family.sh --purge-tombstones
